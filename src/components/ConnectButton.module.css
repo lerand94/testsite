@@ -1,0 +1,16 @@
+.connect {
+  margin-left: auto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+  padding: 16px 50px;
+  background: #d5d5fe;
+  border-radius: 46px;
+  cursor: pointer;
+}
+.connect:hover {
+  background: #bebee0;
+}
+@media (max-width: 1200px) {
+}
